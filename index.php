@@ -6,5 +6,6 @@ if ($isUpdating) {
 ?>
 
 <h1>HOME PAGE</h1>
+<div>testing that this works</div>
 
 <?php include 'includes/footer.php';?>
